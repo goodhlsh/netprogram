@@ -1,0 +1,9 @@
+E:\Books\Program\Chapter_04\Project0401\Project0401\bin\Debug\Project0401.exe.config
+E:\Books\Program\Chapter_04\Project0401\Project0401\bin\Debug\Project0401.exe
+E:\Books\Program\Chapter_04\Project0401\Project0401\bin\Debug\Project0401.pdb
+E:\Books\Program\Chapter_04\Project0401\Project0401\obj\Debug\Project0401.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_04\Project0401\Project0401\obj\Debug\Project0401.exe
+E:\Books\Program\Chapter_04\Project0401\Project0401\obj\Debug\Project0401.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_04\Project0401\Project0401\bin\Debug\Project0401.exe.config
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_04\Project0401\Project0401\obj\Debug\Project0401.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_04\Project0401\Project0401\obj\Debug\Project0401.pdb

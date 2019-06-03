@@ -1,0 +1,6 @@
+E:\Books\Program\Chapter_01\Example1.1\Example1.1\bin\Debug\Example1.1.exe.config
+E:\Books\Program\Chapter_01\Example1.1\Example1.1\bin\Debug\Example1.1.exe
+E:\Books\Program\Chapter_01\Example1.1\Example1.1\bin\Debug\Example1.1.pdb
+E:\Books\Program\Chapter_01\Example1.1\Example1.1\obj\Debug\Example1.1.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_01\Example1.1\Example1.1\obj\Debug\Example1.1.exe
+E:\Books\Program\Chapter_01\Example1.1\Example1.1\obj\Debug\Example1.1.pdb

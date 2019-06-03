@@ -1,0 +1,13 @@
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\bin\Debug\Projects1103.exe.config
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\bin\Debug\Projects1103.exe
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\bin\Debug\Projects1103.pdb
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\MainWindow.baml
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\MainWindow.g.cs
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\App.g.cs
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103_MarkupCompile.cache
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103.g.resources
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103.Properties.Resources.resources
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103.exe
+E:\Books\Program\Chapter_11\Projects1103\Projects1103\obj\Debug\Projects1103.pdb

@@ -1,0 +1,9 @@
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\bin\Debug\GradeBLL.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\bin\Debug\GradeBLL.pdb
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\bin\Debug\GradeDAL.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\bin\Debug\GradeModel.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\bin\Debug\GradeDAL.pdb
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\bin\Debug\GradeModel.pdb
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\obj\Debug\GradeBLL.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\obj\Debug\GradeBLL.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeBLL\obj\Debug\GradeBLL.pdb

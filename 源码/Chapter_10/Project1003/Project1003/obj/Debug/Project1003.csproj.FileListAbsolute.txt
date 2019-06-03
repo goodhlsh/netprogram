@@ -1,0 +1,9 @@
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\bin\Debug\Project1003.exe.config
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\bin\Debug\Project1003.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\bin\Debug\Project1003.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\obj\Debug\Project1003.Form1.resources
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\obj\Debug\Project1003.Properties.Resources.resources
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\obj\Debug\Project1003.csproj.GenerateResource.Cache
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\obj\Debug\Project1003.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\obj\Debug\Project1003.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_10\Project1003\Project1003\obj\Debug\Project1003.csprojResolveAssemblyReference.cache

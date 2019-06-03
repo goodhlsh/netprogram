@@ -1,0 +1,17 @@
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.exe.config
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.Form1.resources
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\obj\Debug\edu.xcu.DemoCalculator.Properties.Resources.resources
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.csproj.GenerateResource.Cache
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\程序\Chapter_05\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.csprojResolveAssemblyReference.cache
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\bin\Debug\DemoCalculator.exe.config
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\bin\Debug\DemoCalculator.exe
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\bin\Debug\DemoCalculator.pdb
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\obj\Debug\DemoCalculator.Form1.resources
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\obj\Debug\edu.xcu.DemoCalculator.Properties.Resources.resources
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\obj\Debug\DemoCalculator.csproj.GenerateResource.Cache
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\obj\Debug\DemoCalculator.exe
+H:\dotNET程序设计基础\源码\Chapter_05\Projects0504\DemoCalculator\obj\Debug\DemoCalculator.pdb

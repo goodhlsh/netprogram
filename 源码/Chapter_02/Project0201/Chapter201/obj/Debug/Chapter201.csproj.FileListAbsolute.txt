@@ -1,0 +1,17 @@
+E:\Books\Program\Chapter_02\Chapter201\Chapter201\bin\Debug\Chapter201.exe.config
+E:\Books\Program\Chapter_02\Chapter201\Chapter201\bin\Debug\Chapter201.exe
+E:\Books\Program\Chapter_02\Chapter201\Chapter201\bin\Debug\Chapter201.pdb
+E:\Books\Program\Chapter_02\Chapter201\Chapter201\obj\Debug\Chapter201.exe
+E:\Books\Program\Chapter_02\Chapter201\Chapter201\obj\Debug\Chapter201.pdb
+E:\Books\Program\Chapter_02\Chapter0201\Chapter201\bin\Debug\Chapter201.exe.config
+E:\Books\Program\Chapter_02\Chapter0201\Chapter201\obj\Debug\Chapter201.exe
+E:\Books\Program\Chapter_02\Chapter0201\Chapter201\obj\Debug\Chapter201.pdb
+E:\Books\Program\Chapter_02\Chapter0201\Chapter201\bin\Debug\Chapter201.exe
+E:\Books\Program\Chapter_02\Chapter0201\Chapter201\bin\Debug\Chapter201.pdb
+E:\Books\Program\Chapter_02\Chapter0201\Chapter201\obj\Debug\Chapter201.csprojResolveAssemblyReference.cache
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_02\Project0201\Chapter201\bin\Debug\Chapter201.exe.config
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_02\Project0201\Chapter201\obj\Debug\Chapter201.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_02\Project0201\Chapter201\obj\Debug\Chapter201.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_02\Project0201\Chapter201\bin\Debug\Chapter201.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_02\Project0201\Chapter201\bin\Debug\Chapter201.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_02\Project0201\Chapter201\obj\Debug\Chapter201.csprojResolveAssemblyReference.cache

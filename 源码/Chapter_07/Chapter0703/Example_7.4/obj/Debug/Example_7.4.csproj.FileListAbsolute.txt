@@ -1,0 +1,12 @@
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter7\Example_7.4\Example_7.4\bin\Debug\Example_7.4.exe.config
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter7\Example_7.4\Example_7.4\bin\Debug\Example_7.4.exe
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter7\Example_7.4\Example_7.4\bin\Debug\Example_7.4.pdb
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter7\Example_7.4\Example_7.4\obj\Debug\Example_7.4.csprojResolveAssemblyReference.cache
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter7\Example_7.4\Example_7.4\obj\Debug\Example_7.4.exe
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter7\Example_7.4\Example_7.4\obj\Debug\Example_7.4.pdb
+E:\Books\Program\Chapter_07\Chapter0704\Example_7.4\bin\Debug\Example_7.4.exe.config
+E:\Books\Program\Chapter_07\Chapter0704\Example_7.4\obj\Debug\Example_7.4.exe
+E:\Books\Program\Chapter_07\Chapter0704\Example_7.4\obj\Debug\Example_7.4.pdb
+E:\Books\Program\Chapter_07\Chapter0704\Example_7.4\bin\Debug\Example_7.4.exe
+E:\Books\Program\Chapter_07\Chapter0704\Example_7.4\bin\Debug\Example_7.4.pdb
+E:\Books\Program\Chapter_07\Chapter0704\Example_7.4\obj\Debug\Example_7.4.csprojResolveAssemblyReference.cache

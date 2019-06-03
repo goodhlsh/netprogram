@@ -1,0 +1,9 @@
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\bin\Debug\Projects0504.exe.config
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\bin\Debug\Projects0504.exe
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\bin\Debug\Projects0504.pdb
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\obj\Debug\Projects0504.Form1.resources
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\obj\Debug\Projects0504.Properties.Resources.resources
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\obj\Debug\Projects0504.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\obj\Debug\Projects0504.exe
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\obj\Debug\Projects0504.pdb
+E:\Books\Program\Chapter_05\Projects0504\Projects0504\obj\Debug\Projects0504.csprojResolveAssemblyReference.cache

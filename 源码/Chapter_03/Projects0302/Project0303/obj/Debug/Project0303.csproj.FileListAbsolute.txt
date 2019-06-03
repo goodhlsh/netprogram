@@ -1,0 +1,9 @@
+E:\Books\Program\Chapter_03\Project0303\Project0303\bin\Debug\Project0303.exe.config
+E:\Books\Program\Chapter_03\Project0303\Project0303\bin\Debug\Project0303.exe
+E:\Books\Program\Chapter_03\Project0303\Project0303\bin\Debug\Project0303.pdb
+E:\Books\Program\Chapter_03\Project0303\Project0303\obj\Debug\Project0303.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_03\Project0303\Project0303\obj\Debug\Project0303.exe
+E:\Books\Program\Chapter_03\Project0303\Project0303\obj\Debug\Project0303.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_03\Project0303\Project0303\bin\Debug\Project0303.exe.config
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_03\Project0303\Project0303\obj\Debug\Project0303.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_03\Project0303\Project0303\obj\Debug\Project0303.pdb

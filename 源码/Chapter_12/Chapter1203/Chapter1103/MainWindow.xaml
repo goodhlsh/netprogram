@@ -1,0 +1,14 @@
+﻿<Window x:Class="Chapter1103.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="按钮的用法" Height="240" Width="420">
+    <Grid Margin="10">
+        <Button Content="Press" HorizontalAlignment="Left" Margin="27,106,0,0" VerticalAlignment="Top" Width="75" Height="38" IsDefault="True" ClickMode="Press" Click="Button_Click" />
+        <Button Content="Release" HorizontalAlignment="Left" Margin="155,106,0,0" VerticalAlignment="Top" Width="75" Height="38" IsCancel="True" ClickMode="Release" Click="Button_Click" />
+        <Button Content="Hover" HorizontalAlignment="Left" Margin="293,106,0,0" VerticalAlignment="Top" Width="75" Height="38" ClickMode="Hover" Click="Button_Click" />
+        <StackPanel >
+            <ToggleButton x:Name="toggleOnOffButton" Width="75" Height="38" Checked="toggleOnOffButtonPressed" Unchecked="toggleOnOffButtonPressed" Margin="158,0" />
+        </StackPanel>
+      
+    </Grid>
+</Window>

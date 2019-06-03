@@ -1,0 +1,6 @@
+序号         项目名称            功能说明
+1          Chapter0701        连接对象的用法
+2          Chapter0702         命令对象的用法
+3          Chapter0703        Dataset的用法
+4          Database文件夹     学生数据库文件
+5          GradeManagement     学生成绩管理系统源码

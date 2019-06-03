@@ -1,0 +1,66 @@
+﻿<Window x:Class="BasicWPFDataBinding.WinBasicBinding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:c="clr-namespace:BasicWPFDataBinding"
+        Title="WinBasicBinding" Height="360" Width="360">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" x:Name="panelOneTime">
+            <StackPanel.Resources>
+                <c:MyData x:Key="myDataSourceA" />
+            </StackPanel.Resources>
+            <StackPanel.DataContext>
+                <Binding Source="{StaticResource myDataSourceA}" />
+            </StackPanel.DataContext>
+            <TextBlock Text="OneTime Binding" />
+            <TextBox Margin="5" Text="{Binding Path=Name, Mode=OneTime}" />
+            <Button Margin="5" Content="Change Name" x:Name="btnOneTimeBindingChange" Click="btnOneTimeBindingChange_Click" />
+            <Button Margin="5" Content="Get Name"  x:Name="btnOnTimeBindingGet" Click="btnOnTimeBindingGet_Click" />
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1" x:Name="panelOneWay">
+            <StackPanel.Resources>
+                <c:MyData x:Key="myDataSourceB" />
+            </StackPanel.Resources>
+            <StackPanel.DataContext>
+                <Binding Source="{StaticResource myDataSourceB}" />
+            </StackPanel.DataContext>
+            <TextBlock Text="OneWay Binding" />
+            <TextBox Margin="5" Text="{Binding Path=Name, Mode=OneWay}" />
+            <Button Margin="5" Content="Change Name" x:Name="btnOneWayeBindingChange" Click="btnOneWayeBindingChange_Click" />
+            <Button Margin="5" Content="Get Name"    x:Name="btnOneWayBindingGet" Click="btnOneWayBindingGet_Click" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" x:Name="panelTwoWay">
+            <StackPanel.Resources>
+                <c:MyData x:Key="myDataSourceC" />
+            </StackPanel.Resources>
+            <StackPanel.DataContext>
+                <Binding Source="{StaticResource myDataSourceC}" />
+            </StackPanel.DataContext>
+            <TextBlock Text="TwoWay Binding" />
+            <TextBox Margin="5" Text="{Binding Path=Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Margin="5" Content="Change Name" x:Name="btnTwoWayBindingChange" Click="btnTwoWayBindingChange_Click" />
+            <Button Margin="5" Content="Get Name"    x:Name="btnTwoWayBindingGet" Click="btnTwoWayBindingGet_Click" />
+            <TextBlock Margin="5" Text="{Binding Path=Name, Mode=OneWay}" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1" x:Name="panelOneWayToSource">
+            <StackPanel.Resources>
+                <c:MyData x:Key="myDataSourceD" />
+            </StackPanel.Resources>
+            <StackPanel.DataContext>
+                <Binding Source="{StaticResource myDataSourceD}" />
+            </StackPanel.DataContext>
+            <TextBlock Text="OneWayToSource Binding" />
+            <TextBox Margin="5" Text="{Binding Path=Name, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Margin="5" Content="Change Name" x:Name="btnOneWayToSourceBindingChange" Click="btnOneWayToSourceBindingChange_Click" />
+            <Button Margin="5" Content="Get Name"  x:Name="btnOneWayToSourceBindingGet" Click="btnOneWayToSourceBindingGet_Click" />
+            <TextBlock Margin="5"  Text="{Binding Path=Name, Mode=OneWay}" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+E:\Books\Program\Chapter_04\Project0402\Project0402\bin\Debug\Project0402.exe.config
+E:\Books\Program\Chapter_04\Project0402\Project0402\bin\Debug\Project0402.exe
+E:\Books\Program\Chapter_04\Project0402\Project0402\bin\Debug\Project0402.pdb
+E:\Books\Program\Chapter_04\Project0402\Project0402\obj\Debug\Project0402.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_04\Project0402\Project0402\obj\Debug\Project0402.exe
+E:\Books\Program\Chapter_04\Project0402\Project0402\obj\Debug\Project0402.pdb

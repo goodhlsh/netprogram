@@ -1,0 +1,6 @@
+E:\Books\Program\Chapter_02\Chapter0210\Chapter0210\bin\Debug\Chapter0210.exe.config
+E:\Books\Program\Chapter_02\Chapter0210\Chapter0210\bin\Debug\Chapter0210.exe
+E:\Books\Program\Chapter_02\Chapter0210\Chapter0210\bin\Debug\Chapter0210.pdb
+E:\Books\Program\Chapter_02\Chapter0210\Chapter0210\obj\Debug\Chapter0210.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_02\Chapter0210\Chapter0210\obj\Debug\Chapter0210.exe
+E:\Books\Program\Chapter_02\Chapter0210\Chapter0210\obj\Debug\Chapter0210.pdb

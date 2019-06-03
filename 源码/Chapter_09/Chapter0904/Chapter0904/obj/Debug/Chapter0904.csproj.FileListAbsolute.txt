@@ -1,0 +1,8 @@
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\bin\Debug\Chapter0904.exe.config
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\obj\Debug\Chapter0904.Form1.resources
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\obj\Debug\Chapter0904.Properties.Resources.resources
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\obj\Debug\Chapter0904.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\bin\Debug\Chapter0904.exe
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\bin\Debug\Chapter0904.pdb
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\obj\Debug\Chapter0904.exe
+E:\Books\Program\Chapter_09\Chapter0904\Chapter0904\obj\Debug\Chapter0904.pdb

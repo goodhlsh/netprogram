@@ -1,0 +1,7 @@
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\bin\Debug\GradeDAL.dll
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\bin\Debug\GradeDAL.pdb
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\bin\Debug\Model.dll
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\bin\Debug\Model.pdb
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\obj\Debug\GradeDAL.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\obj\Debug\GradeDAL.dll
+E:\Books\Program\Chapter_08\ResultManagement\GradeDAL\obj\Debug\GradeDAL.pdb

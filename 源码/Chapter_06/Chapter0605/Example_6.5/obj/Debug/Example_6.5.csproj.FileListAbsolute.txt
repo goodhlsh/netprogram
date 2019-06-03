@@ -1,0 +1,12 @@
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\bin\Debug\Example_6.5.exe.config
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\bin\Debug\Example_6.5.exe
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\bin\Debug\Example_6.5.pdb
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\obj\Debug\Example_6._5.Form1.resources
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\obj\Debug\Example_6._5.Properties.Resources.resources
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\obj\Debug\Example_6.5.csproj.GenerateResource.Cache
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\obj\Debug\Example_6.5.exe
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\obj\Debug\Example_6.5.pdb
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.5\Example_6.5\obj\Debug\Example_6.5.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_06\Chapter0605\Example_6.5\bin\Debug\Example_6.5.exe.config
+E:\Books\Program\Chapter_06\Chapter0605\Example_6.5\obj\Debug\Example_6.5.exe
+E:\Books\Program\Chapter_06\Chapter0605\Example_6.5\obj\Debug\Example_6.5.pdb

@@ -1,0 +1,6 @@
+E:\Books\Program\Chapter_02\Project0202\Project0202\bin\Debug\Project0202.exe.config
+E:\Books\Program\Chapter_02\Project0202\Project0202\bin\Debug\Project0202.exe
+E:\Books\Program\Chapter_02\Project0202\Project0202\bin\Debug\Project0202.pdb
+E:\Books\Program\Chapter_02\Project0202\Project0202\obj\Debug\Project0202.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_02\Project0202\Project0202\obj\Debug\Project0202.exe
+E:\Books\Program\Chapter_02\Project0202\Project0202\obj\Debug\Project0202.pdb

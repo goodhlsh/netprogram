@@ -1,0 +1,5 @@
+E:\Books\Program\Chapter_08\ResultManagement\Model\bin\Debug\Model.dll
+E:\Books\Program\Chapter_08\ResultManagement\Model\bin\Debug\Model.pdb
+E:\Books\Program\Chapter_08\ResultManagement\Model\obj\Debug\Model.dll
+E:\Books\Program\Chapter_08\ResultManagement\Model\obj\Debug\Model.pdb
+E:\Books\Program\Chapter_08\ResultManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

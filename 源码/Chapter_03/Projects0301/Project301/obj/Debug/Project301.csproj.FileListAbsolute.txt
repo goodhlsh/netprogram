@@ -1,0 +1,5 @@
+E:\Books\Program\Chapter_03\Project301\Project301\bin\Debug\Project301.exe.config
+E:\Books\Program\Chapter_03\Project301\Project301\bin\Debug\Project301.exe
+E:\Books\Program\Chapter_03\Project301\Project301\bin\Debug\Project301.pdb
+E:\Books\Program\Chapter_03\Project301\Project301\obj\Debug\Project301.exe
+E:\Books\Program\Chapter_03\Project301\Project301\obj\Debug\Project301.pdb

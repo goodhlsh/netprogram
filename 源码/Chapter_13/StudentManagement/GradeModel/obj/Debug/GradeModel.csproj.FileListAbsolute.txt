@@ -1,0 +1,4 @@
+E:\Books\Program\Chapter_12\StudentManagement\GradeModel\bin\Debug\GradeModel.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeModel\bin\Debug\GradeModel.pdb
+E:\Books\Program\Chapter_12\StudentManagement\GradeModel\obj\Debug\GradeModel.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeModel\obj\Debug\GradeModel.pdb

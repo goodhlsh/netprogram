@@ -1,0 +1,15 @@
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\bin\Debug\BasicWPFDataBinding.exe.config
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\WinBasicBinding.g.cs
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\App.g.cs
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding_MarkupCompile.cache
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding_MarkupCompile.lref
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\bin\Debug\BasicWPFDataBinding.exe
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\bin\Debug\BasicWPFDataBinding.pdb
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\WinBasicBinding.baml
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding.g.resources
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding.Properties.Resources.resources
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding.exe
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding.pdb
+E:\Books\Program\Chapter_11\BasicWPFDataBinding\BasicWPFDataBinding\obj\Debug\BasicWPFDataBinding.csprojResolveAssemblyReference.cache

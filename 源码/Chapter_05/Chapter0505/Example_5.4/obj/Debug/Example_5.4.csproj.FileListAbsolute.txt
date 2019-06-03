@@ -1,0 +1,17 @@
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\bin\Debug\Example_5.4.exe.config
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\bin\Debug\Example_5.4.exe
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\bin\Debug\Example_5.4.pdb
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\obj\Debug\Example_5._4.Form1.resources
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\obj\Debug\Example_5._4.Properties.Resources.resources
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\obj\Debug\Example_5.4.csproj.GenerateResource.Cache
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\obj\Debug\Example_5.4.exe
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter5\Example_5.4\Example_5.4\obj\Debug\Example_5.4.pdb
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\bin\Debug\Example_5.4.exe.config
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\obj\Debug\Example_5.4.exe
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\obj\Debug\Example_5.4.pdb
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\bin\Debug\Example_5.4.exe
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\bin\Debug\Example_5.4.pdb
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\obj\Debug\Example_5._4.Form1.resources
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\obj\Debug\Example_5._4.Properties.Resources.resources
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\obj\Debug\Example_5.4.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_05\Chapter0505\Example_5.4\obj\Debug\Example_5.4.csprojResolveAssemblyReference.cache

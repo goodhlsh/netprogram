@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeManagement", "GradeManagement\GradeManagement.csproj", "{0783A992-1D9C-4C80-8E81-685E42694FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeDAL", "GradeDAL\GradeDAL.csproj", "{8121C7C9-D6BC-4541-8E05-350154CE3DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBLL", "GradeBLL\GradeBLL.csproj", "{D8166F1C-714C-470D-9551-79AFD058C1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B7B41285-BD72-491D-B989-9CB7FCC0BC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0783A992-1D9C-4C80-8E81-685E42694FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0783A992-1D9C-4C80-8E81-685E42694FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0783A992-1D9C-4C80-8E81-685E42694FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0783A992-1D9C-4C80-8E81-685E42694FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8121C7C9-D6BC-4541-8E05-350154CE3DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8121C7C9-D6BC-4541-8E05-350154CE3DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8121C7C9-D6BC-4541-8E05-350154CE3DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8121C7C9-D6BC-4541-8E05-350154CE3DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8166F1C-714C-470D-9551-79AFD058C1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8166F1C-714C-470D-9551-79AFD058C1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8166F1C-714C-470D-9551-79AFD058C1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8166F1C-714C-470D-9551-79AFD058C1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B41285-BD72-491D-B989-9CB7FCC0BC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B41285-BD72-491D-B989-9CB7FCC0BC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B41285-BD72-491D-B989-9CB7FCC0BC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B41285-BD72-491D-B989-9CB7FCC0BC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\bin\Release\GradeDAL.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\bin\Release\GradeDAL.pdb
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\bin\Release\GradeModel.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\bin\Release\GradeModel.pdb
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\obj\Release\GradeDAL.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\obj\Release\GradeDAL.dll
+E:\Books\Program\Chapter_12\StudentManagement\GradeDAL\obj\Release\GradeDAL.pdb
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\bin\Release\GradeDAL.dll
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\bin\Release\GradeDAL.pdb
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\bin\Release\GradeModel.dll
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\bin\Release\GradeModel.pdb
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\obj\Release\GradeDAL.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\obj\Release\GradeDAL.dll
+E:\Books\Program\Chapter_13\StudentManagement\GradeDAL\obj\Release\GradeDAL.pdb

@@ -1,0 +1,10 @@
+E:\C#应用开发与实践\C#.NET应用开发与实践\Program\Chapter6\Example_6.1\Example_6.1\bin\Debug\Example_6.1.exe.config
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\bin\Debug\Example_6.1.exe.config
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\bin\Debug\Example_6.1.exe
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\bin\Debug\Example_6.1.pdb
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\obj\Debug\Example_6.1.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\obj\Debug\Example_6._1.Form1.resources
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\obj\Debug\Example_6._1.Properties.Resources.resources
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\obj\Debug\Example_6.1.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\obj\Debug\Example_6.1.exe
+E:\Books\Program\Chapter_06\Chapter0601\Example_6.1\obj\Debug\Example_6.1.pdb

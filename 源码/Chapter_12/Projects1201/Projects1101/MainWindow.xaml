@@ -1,0 +1,23 @@
+﻿<Window x:Class="Projects1101.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="用户登录" Height="192" Width="320.151" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Offset="0" Color="Blue"></GradientStop>
+                <GradientStop Offset="0.5" Color="LightBlue"></GradientStop>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>            
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+        <Label Content="用户名" HorizontalAlignment="Left" Margin="36,31,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.467,-0.424" Grid.RowSpan="2"/>
+        <TextBox Name="txtName" HorizontalAlignment="Left" Height="23" Margin="101,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="173" Grid.RowSpan="2"/>
+        <Label Content="密  码" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,34,0,0" Grid.Row="1"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="101,34,0,0" Grid.Row="1" VerticalAlignment="Top" Width="173"  PasswordChar=" *" Name="txtPass"/>
+        <Button Name="btnLogin" Content="登录" HorizontalAlignment="Left" Margin="36,82,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Height="22" Click="btnLogin_Click"/>
+        <Button Name="btnCancel" Content="取消" HorizontalAlignment="Left" Margin="199,82,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+    </Grid>
+</Window>

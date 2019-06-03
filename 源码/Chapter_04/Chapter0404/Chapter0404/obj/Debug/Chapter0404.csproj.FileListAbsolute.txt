@@ -1,0 +1,6 @@
+E:\Books\Program\Chapter_04\Chapter0404\Chapter0404\bin\Debug\Chapter0404.exe.config
+E:\Books\Program\Chapter_04\Chapter0404\Chapter0404\bin\Debug\Chapter0404.exe
+E:\Books\Program\Chapter_04\Chapter0404\Chapter0404\bin\Debug\Chapter0404.pdb
+E:\Books\Program\Chapter_04\Chapter0404\Chapter0404\obj\Debug\Chapter0404.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_04\Chapter0404\Chapter0404\obj\Debug\Chapter0404.exe
+E:\Books\Program\Chapter_04\Chapter0404\Chapter0404\obj\Debug\Chapter0404.pdb

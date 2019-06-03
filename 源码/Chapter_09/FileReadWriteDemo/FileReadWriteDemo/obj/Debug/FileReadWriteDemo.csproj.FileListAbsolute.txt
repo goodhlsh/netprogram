@@ -1,0 +1,6 @@
+E:\Books\Program\Chapter_09\FileReadWriteDemo\FileReadWriteDemo\bin\Debug\FileReadWriteDemo.exe.config
+E:\Books\Program\Chapter_09\FileReadWriteDemo\FileReadWriteDemo\bin\Debug\FileReadWriteDemo.exe
+E:\Books\Program\Chapter_09\FileReadWriteDemo\FileReadWriteDemo\bin\Debug\FileReadWriteDemo.pdb
+E:\Books\Program\Chapter_09\FileReadWriteDemo\FileReadWriteDemo\obj\Debug\FileReadWriteDemo.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_09\FileReadWriteDemo\FileReadWriteDemo\obj\Debug\FileReadWriteDemo.exe
+E:\Books\Program\Chapter_09\FileReadWriteDemo\FileReadWriteDemo\obj\Debug\FileReadWriteDemo.pdb

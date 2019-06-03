@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C3E6E587-64AF-4C91-A961-265118E93FE5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>edu.xcu.GradeManagement</RootNamespace>
+    <AssemblyName>GradeManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>E:\MyApplicationPath\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://localhost/</InstallUrl>
+    <ProductName>GradeManagement</ProductName>
+    <PublisherName>许昌学院</PublisherName>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>index.htm</WebPage>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C097D6C585550E0983DD7170D5E8E170AD244E1C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GradeManagement_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutGrade.Designer.cs">
+      <DependentUpon>AboutGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddClass.Designer.cs">
+      <DependentUpon>frmAddClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddCollge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddCollge.Designer.cs">
+      <DependentUpon>frmAddCollge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddCourse.Designer.cs">
+      <DependentUpon>frmAddCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddGrade.Designer.cs">
+      <DependentUpon>frmAddGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddStudent.Designer.cs">
+      <DependentUpon>frmAddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackupData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackupData.Designer.cs">
+      <DependentUpon>frmBackupData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClassList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClassList.Designer.cs">
+      <DependentUpon>frmClassList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCollegeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCollegeList.Designer.cs">
+      <DependentUpon>frmCollegeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCourseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCourseList.Designer.cs">
+      <DependentUpon>frmCourseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditGrade.Designer.cs">
+      <DependentUpon>frmEditGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditStudent.Designer.cs">
+      <DependentUpon>frmEditStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInqueryGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInqueryGrade.Designer.cs">
+      <DependentUpon>frmInqueryGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRestoreData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRestoreData.Designer.cs">
+      <DependentUpon>frmRestoreData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmInquiryStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInquiryStudent.Designer.cs">
+      <DependentUpon>frmInquiryStudent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutGrade.resx">
+      <DependentUpon>AboutGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddClass.resx">
+      <DependentUpon>frmAddClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddCollge.resx">
+      <DependentUpon>frmAddCollge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddCourse.resx">
+      <DependentUpon>frmAddCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddGrade.resx">
+      <DependentUpon>frmAddGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddStudent.resx">
+      <DependentUpon>frmAddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackupData.resx">
+      <DependentUpon>frmBackupData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClassList.resx">
+      <DependentUpon>frmClassList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCollegeList.resx">
+      <DependentUpon>frmCollegeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCourseList.resx">
+      <DependentUpon>frmCourseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditGrade.resx">
+      <DependentUpon>frmEditGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditStudent.resx">
+      <DependentUpon>frmEditStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInqueryGrade.resx">
+      <DependentUpon>frmInqueryGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInquiryStudent.resx">
+      <DependentUpon>frmInquiryStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRestoreData.resx">
+      <DependentUpon>frmRestoreData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="GradeManagement_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GradeBLL\GradeBLL.csproj">
+      <Project>{c46152bc-e6e5-4e40-aa2a-e899bc09519d}</Project>
+      <Name>GradeBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GradeModel\GradeModel.csproj">
+      <Project>{26910a42-7619-478d-b792-5607fb18ee57}</Project>
+      <Name>GradeModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

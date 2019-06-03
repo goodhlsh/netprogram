@@ -1,0 +1,9 @@
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\bin\Debug\Chapter0501.exe.config
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\bin\Debug\Chapter0501.exe
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\bin\Debug\Chapter0501.pdb
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\obj\Debug\Chapter0501.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\obj\Debug\Chapter0501.Form1.resources
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\obj\Debug\Chapter0501.Properties.Resources.resources
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\obj\Debug\Chapter0501.csproj.GenerateResource.Cache
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\obj\Debug\Chapter0501.exe
+E:\Books\Program\Chapter_05\Chapter0501\Chapter0501\obj\Debug\Chapter0501.pdb

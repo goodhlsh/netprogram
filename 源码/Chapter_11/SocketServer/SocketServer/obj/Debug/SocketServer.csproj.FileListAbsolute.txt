@@ -1,0 +1,9 @@
+E:\Books\Program\Chapter_11\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+E:\Books\Program\Chapter_11\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+E:\Books\Program\Chapter_11\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+E:\Books\Program\Chapter_11\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\Books\Program\Chapter_11\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+E:\Books\Program\Chapter_11\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_11\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_11\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+E:\科研资料\书籍\NET软件开发技术与项目实战\Program\Chapter_11\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
